@@ -57,3 +57,7 @@ Conclusion
 In conclusion, the Image Classification task helped me gain hands-on experience in computer vision and deep learning. I learned how to preprocess image data, design and train a convolutional neural network, and evaluate its performance. The project not only strengthened my technical skills but also gave me practical knowledge of how image classification models are applied in the real world.
 
 Using Jupyter Notebook and Python libraries like TensorFlow/Keras made the implementation process smooth and effective. More importantly, this task showed me the potential of machine learning in solving real-life problems through images, making it one of the most valuable learning experiences during my internship.
+
+##OUTPUT:
+<img width="1699" height="926" alt="Image" src="https://github.com/user-attachments/assets/f2a52004-af5c-4031-b2f4-dc020fa02141" />
+<img width="1692" height="902" alt="Image" src="https://github.com/user-attachments/assets/07bd0e1f-e0b3-4585-8885-968dc8579eab" />
